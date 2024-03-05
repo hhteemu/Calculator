@@ -36,4 +36,4 @@ This project is a personal hobby project, and contributions are not accepted at 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
