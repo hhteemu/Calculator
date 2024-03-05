@@ -14,12 +14,12 @@
 
     <string name="add">+</string>
     <string name="subtract">-</string>
-    <string name="multiply">×</string>
-    <string name="divide">÷</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
     <string name="equal">=</string>
     <string name="point">.</string>
     <string name="clear">C</string>
     <string name="backspace">👈</string>
 
-    <string name="display">Welcome to the calculator!</string>
+    <string name="display"></string>
 </resources>
